@@ -1,13 +1,13 @@
 {
-  "name": "reveal-skel",
+  "name": "@sermons/one-in-christ",
   "version": "0.5.0",
-  "repository": "sermons/reveal-skel",
-  "description": "A template Reveal.js-based presentations",
-  "keywords": ["presentation", "slides", "template", "ppt"],
+  "repository": "sermons/one-in-christ",
+  "description": "Eph2:11-22, One Body in Christ",
+  "keywords": ["slides", "sermon", "Ephesians", "unity"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "one-in-christ.seanho.com",
+    "cname": "one-in-christ.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
       "id": "22bc761ffc97809b"

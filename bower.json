@@ -1,5 +1,5 @@
 {
-  "name": "reveal-skel",
+  "name": "@sermons/one-in-christ",
   "version": "0.5.0",
   "dependencies": {
     "reveal.js": "~3.3.0",
