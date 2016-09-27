@@ -26,7 +26,8 @@
 
 ---
 <span class="hl2">12</span>
-**Remember** that at that time you were **separate** from Christ
+**Remember** that at that time <br/>
+you were **separate** from Christ
 
 那 時 ， 你 們 與 基 督 無 關
 
