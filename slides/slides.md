@@ -4,8 +4,8 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Where is my **home**?
-# How do I find **peace**?
+## Where is my **home**?
+## How do I find **peace**?
 
 >>>
 + Eph: past **grace** + future **hope** &rArr; present **walk**
@@ -54,7 +54,7 @@ without **hope** and without **God** in the world
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What is my true **citizenship**?
+## What is my true **citizenship**?
 
 >>>
 + Q: **citizenship**? group / boundary / label
@@ -99,8 +99,8 @@ to God
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Am I at **peace**?
-# With **others**, with **self**, with **God**?
+## Am I at **peace**?
+## With **others**, with **self**, with **God**?
 
 >>>
 + How do you obtain peace?
@@ -130,7 +130,7 @@ to God
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Are **we** growing into a **Bethel**?
+## Are **we** growing into a **Bethel**?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
@@ -142,8 +142,9 @@ and rises to become a holy temple in the Lord.
 漸 漸 成 為 主 的 聖 殿 。
 
 <span class="hl2">22</span>
-And in him you too are being built together to <br/>
-become a dwelling in which God lives by his Spirit.
+And in him you too are being built together <br/>
+to become a dwelling in which God lives <br/>
+by his Spirit.
 
 你 們 也 靠 他 同 被 建 造 ， <br/>
 成 為 神 藉 著 聖 靈 居 住 的 所 在 。
