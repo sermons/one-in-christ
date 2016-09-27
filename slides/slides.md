@@ -5,7 +5,7 @@
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Where is my **home**?
-# How do I find lasting **peace**?
+# How do I find **peace**?
 
 >>>
 + Eph: past **grace** + future **hope** &rArr; present **walk**
