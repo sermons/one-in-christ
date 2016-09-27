@@ -1,6 +1,6 @@
 {
   "name": "@sermons/one-in-christ",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "repository": "sermons/one-in-christ",
   "description": "Eph2:11-22, One Body in Christ",
   "keywords": ["slides", "sermon", "Ephesians", "unity"],
@@ -10,7 +10,7 @@
     "cname": "one-in-christ.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
-      "id": "22bc761ffc97809b"
+      "id": "f3bcac971c74101f"
     },
     "git": {
       "name": "Sean Ho",
