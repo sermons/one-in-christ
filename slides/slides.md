@@ -17,9 +17,9 @@
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ
-+ Without Christ: **Former Enemies** <span class="hl2">(v11-13)</span>
-+ What Christ did: **Made at Peace** <span class="hl2">(v14-18)</span>
-+ Life in Christ: **Growing Together** <span class="hl2">(v19-22)</span>
++ *Without* Christ: **Former Enemies** <span class="hl2">(v11-13)</span>
++ What Christ *did*: **Made at Peace** <span class="hl2">(v14-18)</span>
++ *Life* in Christ: **Growing Together** <span class="hl2">(v19-22)</span>
 
 >>>
 + e.g., 3-part **baptism** testimony
