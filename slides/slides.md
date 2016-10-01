@@ -39,18 +39,20 @@ you were **separate** from Christ
 	+ citizenship, belonging, identity
 	+ feeling left out at communion?
 	+ how did it feel to be the **other**? Do you remember anymore?
-+ w/o **covenant**: uncircumcised, stranger
-	+ God's relationship, promise
-	+ c.f. proposal: engaged vs left over
-+ w/o **Christ**: hopeless, godless
-	+ non-Chr loved ones: frustrated by diff value system? We were same
-+ from **far** to **near**
 
 ---
 <span class="hl2">12</span>
 without **hope** and without **God** in the world
 
 並 且 活 在 世 上 沒 有 指 望 ， 沒 有 神
+
+>>>
++ w/o **covenant**: uncircumcised, stranger
+	+ God's relationship, promise
+	+ c.f. proposal: engaged vs left over
++ w/o **Christ**: hopeless, godless
+	+ non-Chr loved ones: frustrated by diff value system? We were same
++ from **far** to **near**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -69,7 +71,7 @@ without **hope** and without **God** in the world
 + Life in Christ: Growing Together <span class="hl2">(v19-22)</span>
 
 ---
-## Made at Peace 14-18
+He **himself** is our **peace**
 
 >>>
 + this is what **peace** looks like:
@@ -78,21 +80,41 @@ without **hope** and without **God** in the world
 	+ Jer 8:8-11 healing superficially
 	+ *(Ez13:1-16 Lord not sent, but hope for fulfillment)*
 	+ we can't: **creation** & **destruction**
+
+---
+made the two one
+
+>>>
 + Christ **did** this:
 	+ **made** both one
 	+ **broke** mid-wall of barrier, enmity
 		+ in his flesh (c.f. curtain)
+
+---
+## Galatians 3:26-29 <small>(NIV)</small>
+
+>>>
 	+ **nullified** law of cmds in dogma
 		+ *(Ro3:31 nullify law bc faith?)*
 		+ Gal3:16-17 promises to seed
 		+ :22-25 Law leads to Christ
 		+ :26-29 no Jew nor Greek, heirs
+
+---
+reconcile both in one body to God
+
+>>>
 + **so that** He may:
 	+ **create** one new man (c.f. marriage)
 		+ **making** peace
 	+ **reconcile** both in one body
 to God
 		+ **killing** the enmity
+
+---
+## Isaiah 57:15 <small>(NIV)</small>
+
+>>>
 + both **far** and **near**
 	+ **access**/approach in one spirit
 	+ Is57:15-21 lowly & contrite
@@ -113,20 +135,27 @@ to God
 + **Life in Christ: Growing Together** <span class="hl2">(v19-22)</span>
 
 ---
-## Growing in Christ 19-22
+You are no longer **aliens**
 
 >>>
 + aliens -> fellow **citizens**
 	+ not of the household -> **household**
+
+---
+## Romans 9:25-26 <small>(NIV)</small>
+
+>>>
 	+ Ro9:25-26 (q. Ho1,2) Lo-Ammi
+
+---
+**foundation** of apostles & prophets
+
+>>>
 + metaphors: house, harmony, plant
-+ **foundation** of apostles & prophets
 	+ *(1Co3:9-11 lay foundation)*
 	+ **capstone** is Christ *(Ro9:30-33)*
 	+ 1Pe2:4-6 Living stone
 	+ :9-10 people of God
-+ **fit** together, **grows** into holy temple
-	+ you too built into **home** of God
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
