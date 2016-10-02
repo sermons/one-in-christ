@@ -30,6 +30,7 @@
 you were **separate** from Christ
 
 **那 時** ， 你 們 與 基 督 **無 關**
+<!-- .element: style="font-size: larger" -->
 
 >>>
 + **remember** our original state
