@@ -121,6 +121,7 @@ has made the two groups **one**
 		+ in his flesh (c.f. curtain)
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Galatians 3:27 <small>(NIV) (p.1/2)</small>
 For all of you who were **baptized** into Christ <br/>
 have **clothed** yourselves with Christ.
@@ -131,6 +132,7 @@ have **clothed** yourselves with Christ.
 </div>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Galatians 3:28 <small>(NIV) (p.2/2)</small>
 There is neither **Jew** nor **Greek**, <br/>
 there is neither **slave** nor **free** man, <br/>
@@ -152,6 +154,7 @@ for you are all **one** in Christ Jesus.
 	+ :26-29 no Jew nor Greek, heirs
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 <span class="hl2">16</span>
 in **one body** to reconcile **both** of them <br/>
 to **God** through the cross
@@ -170,7 +173,8 @@ to God
 		+ **killing** the enmity
 
 ---
-## Isaiah 57:15 <small>(NIV)</small>
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+## Isaiah 57:15 <small>(NIV) (p.1/3)</small>
 I live in a **high** and **holy** place, <br/>
 but also with the **contrite** and **lowly** in spirit, <br/>
 to **revive the spirit** of the lowly <br/>
@@ -183,13 +187,9 @@ and to **revive the heart** of the contrite.
 也使痛悔人的**心甦醒**
 </div>
 
->>>
-+ both **far** and **near**
-	+ **access**/approach in one spirit
-	+ Is57:15-21 lowly & contrite
-
 ---
-## Isaiah 57:19 <small>(NIV)</small>
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+## Isaiah 57:19 <small>(NIV) (p.2/3)</small>
 **Peace, peace**, to those far and near,” <br/>
 says the Lord. “And I will **heal** them.”
 
@@ -199,8 +199,14 @@ says the Lord. “And I will **heal** them.”
 並且我要**醫治**他
 </div>
 
+>>>
++ both **far** and **near**
+	+ **access**/approach in one spirit
+	+ Is57:15-21 lowly & contrite
+
 ---
-## Isaiah 57:21 <small>(NIV)</small>
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+## Isaiah 57:21 <small>(NIV) (p.3/3)</small>
 "There is **no peace**,” says my God, <br/>
 “for the **wicked**.”
 
@@ -224,6 +230,7 @@ says the Lord. “And I will **heal** them.”
 + **Life in Christ: Growing Together** <span class="hl2">(v19-22)</span>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 <span class="hl2">19</span>
 You are no longer **foreigners and strangers**, <br/>
 but **fellow citizens** with God’s people
@@ -239,6 +246,7 @@ but **fellow citizens** with God’s people
 + Ro9:25-26 (q. Ho1,2) Lo-Ammi
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-agS-BtrQZrs-train_station.jpg" -->
 <span class="hl2">20</span>
 built on the **foundation** <br/>
 of the apostles and prophets, <br/>
@@ -259,6 +267,7 @@ as the **chief cornerstone**.
 	+ :9-10 people of God
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
 <span class="hl2">22</span>
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
