@@ -97,7 +97,7 @@ He **himself** is our **peace**
 <span class="hl2">14</span>
 has made the two groups **one**
 
-將 兩 下 合 而 為 **一**
+將 兩 下 **合 而 為 一**
 
 >>>
 + Christ **did** this:
