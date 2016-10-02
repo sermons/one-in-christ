@@ -1,11 +1,14 @@
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Body in Christ
-## Ephesians 2:11-22
+# 在基督裡合而為一
+## Ephesians 以弗所书 2:11-22
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## Where is my **home**?
+## 我的家在哪裡？
 ## How do I find **peace**?
+## 我如何找到和平？
 
 >>>
 + Eph: past **grace** + future **hope** &rArr; present **walk**
@@ -17,6 +20,7 @@
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ
+## 在基督裡合而為一
 + *Without* Christ: **Former Enemies** <span class="hl2">(v11-13)</span>
 + What Christ *did*: **Made at Peace** <span class="hl2">(v14-18)</span>
 + *Life* in Christ: **Growing Together** <span class="hl2">(v19-22)</span>
@@ -74,6 +78,7 @@ without **hope** and without **God** in the world
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## What is my true **citizenship**?
+## 我真正的國籍是什麼？
 
 >>>
 + Q: **citizenship**? group / boundary / label
@@ -83,6 +88,7 @@ without **hope** and without **God** in the world
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ
+## 在基督裡合而為一
 + Without Christ: Former Enemies <span class="hl2">(v11-13)</span>
 + **What Christ did: Made at Peace** <span class="hl2">(v14-18)</span>
 + Life in Christ: Growing Together <span class="hl2">(v19-22)</span>
@@ -218,6 +224,7 @@ says the Lord. “And I will **heal** them.”
 <!-- .slide: class="Q" data-background="white" -->
 ## Am I at **peace**?
 ## With **others**, **self**, and **God**?
+## 我面對別人, 自己, 上帝時, 心中有平安嗎？
 
 >>>
 + How do you obtain peace?
@@ -225,6 +232,7 @@ says the Lord. “And I will **heal** them.”
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ
+## 在基督裡合而為一
 + Without Christ: Former Enemies <span class="hl2">(v11-13)</span>
 + What Christ did: Made at Peace <span class="hl2">(v14-18)</span>
 + **Life in Christ: Growing Together** <span class="hl2">(v19-22)</span>
@@ -281,6 +289,7 @@ in which **God lives** by his Spirit.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## Are **we** growing into a **Bethel**?
+## 我們在成長成一個神的家嗎？
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
