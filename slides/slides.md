@@ -1,14 +1,14 @@
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Body in Christ
 # 在基督裡合而為一
-## <span class="hl2">Ephesians 以弗所书 2:11-22</span>
+## <span class="hl2">Eph 以弗所书 2:11-22</span>
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## Where is my **home**?
-## <span class="zh">我的家在哪裡？</span>
+## <span class="zh">我的**家**在哪裡？</span>
 ## How do I find **peace**?
-## <span class="zh">我如何找到和平？</span>
+## <span class="zh">我如何找到**和平**？</span>
 
 >>>
 + Eph: past **grace** + future **hope** &rArr; present **walk**
