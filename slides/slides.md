@@ -39,6 +39,7 @@ you were **separate** from Christ
 	+ JJ "perfect" angel: but sinful nature
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 <span class="hl2">12</span>
 **foreigners** to the **covenants** of the promise
 
@@ -55,6 +56,7 @@ you were **separate** from Christ
 	+ c.f. proposal: engaged vs left over
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 <span class="hl2">12</span>
 without **hope** and without **God** in the world
 
@@ -82,6 +84,7 @@ without **hope** and without **God** in the world
 + Life in Christ: Growing Together <span class="hl2">(v19-22)</span>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 <span class="hl2">14</span>
 He **himself** is our **peace**
 
@@ -97,6 +100,7 @@ He **himself** is our **peace**
 	+ we can't: **creation** & **destruction**
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 <span class="hl2">14</span>
 has made the two groups **one**
 
@@ -109,7 +113,7 @@ has made the two groups **one**
 		+ in his flesh (c.f. curtain)
 
 ---
-## Galatians 3:27 <small>(NIV/和合本) (p.1/2)</small>
+## Galatians 3:27 <small>(NIV) (p.1/2)</small>
 For all of you who were **baptized** into Christ <br/>
 have **clothed** yourselves with Christ.
 
@@ -117,7 +121,7 @@ have **clothed** yourselves with Christ.
 都 是 **披 戴** 基 督 了
 
 ---
-## Galatians 3:28 <small>(NIV/和合本) (p.2/2)</small>
+## Galatians 3:28 <small>(NIV) (p.2/2)</small>
 There is neither **Jew** nor **Greek**, <br/>
 there is neither **slave** nor **free** man, <br/>
 there is neither **male** nor **female**; <br/>
