@@ -107,21 +107,22 @@ has made the two groups **one**
 
 ---
 ## Galatians 3:27 <small>(NIV/和合本) (p.1/2)</small>
-For all of you who were **baptized** into Christ
+For all of you who were **baptized** into Christ <br/>
 have **clothed** yourselves with Christ.
 
-你 們 **受 洗** 歸 入 基 督 的 都 是 **披 戴** 基 督 了 。
+你 們 **受 洗** 歸 入 基 督 的 <br/>
+都 是 **披 戴** 基 督 了
 
 ---
 ## Galatians 3:28 <small>(NIV/和合本) (p.2/2)</small>
-There is neither **Jew** nor **Greek**,
-there is neither **slave** nor **free** man,
-there is neither **male** nor **female**;
+There is neither **Jew** nor **Greek**, <br/>
+there is neither **slave** nor **free** man, <br/>
+there is neither **male** nor **female**; <br/>
 for you are all **one** in Christ Jesus.
 
-並 不 分 **猶 太** 人 、 **希 利 尼** 人 ，
-**自 主** 的 、 **為 奴** 的 ， 或 **男** 或 **女** ，
-因 為 你 們 在 基 督 耶 穌 裡
+並 不 分 **猶 太** 人 、 **希 利 尼** 人 ， <br/>
+**自 主** 的 、 **為 奴** 的 ， 或 **男** 或 **女** ， <br/>
+因 為 你 們 在 基 督 耶 穌 裡 <br/>
 都 成 為 **一 了**
 
 >>>
@@ -136,7 +137,7 @@ for you are all **one** in Christ Jesus.
 in **one body** to reconcile **both** of them <br/>
 to **God** through the cross
 
-便 藉 這 十 字 架 使 兩 下 歸 為 **一 體** ，
+便 藉 這 十 字 架 使 兩 下 歸 為 **一 體** ， <br/>
 與 **神** 和 好 了 ，
 
 >>>
@@ -150,14 +151,14 @@ to God
 ---
 ## Isaiah 57:15 <small>(NIV)</small>
 I live in a **high** and **holy** place, <br/>
-but also with the one who is **contrite** and **lowly** in spirit, <br/>
+but also with the **contrite** and **lowly** in spirit, <br/>
 to **revive the spirit** of the lowly <br/>
 and to **revive the heart** of the contrite.
 
-我 住 在 至 高 至 聖 的 所 在 ， <br/>
-也 與 心 靈 痛 悔 謙 卑 的 人 同 居 ； <br/>
-要 使 謙 卑 人 的 靈 甦 醒 ，  <br/>
-也 使 痛 悔 人 的 心 甦 醒 。
+我 住 在 **至 高 至 聖** 的 所 在 ， <br/>
+也 與 心 靈 **痛 悔 謙 卑** 的 人 同 居 ； <br/>
+要 使 謙 卑 人 的 **靈 甦 醒 **，  <br/>
+也 使 痛 悔 人 的 **心 甦 醒 **
 
 >>>
 + both **far** and **near**
@@ -215,8 +216,10 @@ but **fellow citizens** with God’s people
 
 ---
 <span class="hl2">20</span>
-built on the **foundation** of the apostles and prophets, <br/>
-with Christ Jesus himself as the **chief cornerstone**.
+built on the **foundation** <br/>
+of the apostles and prophets, <br/>
+with Christ Jesus himself <br/>
+as the **chief cornerstone**.
 
 並 且 被 建 造 在 <br/>
 使 徒 和 先 知 的 根 基 上 ，<br/>
