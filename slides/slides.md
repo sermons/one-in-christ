@@ -87,9 +87,9 @@ without **hope** and without **God** in the world
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ <br/> 在基督裡合而為一
-+ Without Christ: Former Enemies <span class="hl2">(v11-13)</span>
++ Without Christ: Former Enemies (v11-13)
 + **What Christ did: Made at Peace** <span class="hl2">(v14-18)</span>
-+ Life in Christ: Growing Together <span class="hl2">(v19-22)</span>
++ Life in Christ: Growing Together (v19-22)
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
@@ -230,8 +230,8 @@ says the Lord. “And I will **heal** them.”
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ <br/> 在基督裡合而為一
-+ Without Christ: Former Enemies <span class="hl2">(v11-13)</span>
-+ What Christ did: Made at Peace <span class="hl2">(v14-18)</span>
++ Without Christ: Former Enemies (v11-13)
++ What Christ did: Made at Peace (v14-18)
 + **Life in Christ: Growing Together** <span class="hl2">(v19-22)</span>
 
 ---
