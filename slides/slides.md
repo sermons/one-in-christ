@@ -29,27 +29,35 @@
 **Remember** that at that time <br/>
 you were **separate** from Christ
 
-那 時 ， 你 們 與 基 督 無 關
+**那 時** ， 你 們 與 基 督 **無 關**
 
 >>>
 + **remember** our original state
 	+ JJ "perfect" angel: but sinful nature
+
+---
+<span class="hl2">12</span>
+**foreigners** to the **covenants** of the promise
+
+在 所 應 許 的 **諸 約** 上 是 **局 外 人** ，
+
+>>>
 + w/o **community**: Gentile, the "other"
 	+ Chinese: *zhong* vs *wai*
 	+ citizenship, belonging, identity
 	+ feeling left out at communion?
 	+ how did it feel to be the **other**? Do you remember anymore?
++ w/o **covenant**: uncircumcised, stranger
+	+ God's relationship, promise
+	+ c.f. proposal: engaged vs left over
 
 ---
 <span class="hl2">12</span>
 without **hope** and without **God** in the world
 
-並 且 活 在 世 上 沒 有 指 望 ， 沒 有 神
+並 且 活 在 世 上 沒 有 **指 望** ， 沒 有 **神**
 
 >>>
-+ w/o **covenant**: uncircumcised, stranger
-	+ God's relationship, promise
-	+ c.f. proposal: engaged vs left over
 + w/o **Christ**: hopeless, godless
 	+ non-Chr loved ones: frustrated by diff value system? We were same
 + from **far** to **near**
@@ -71,10 +79,14 @@ without **hope** and without **God** in the world
 + Life in Christ: Growing Together <span class="hl2">(v19-22)</span>
 
 ---
+<span class="hl2">14</span>
 He **himself** is our **peace**
+
+他 **是** 我 們 的 **和 睦**
 
 >>>
 + this is what **peace** looks like:
+	+ **person** of Jesus Christ
 	+ not just saying "peace, peace"
 		+ gr8 boys: "peace, be still"
 	+ Jer 8:8-11 healing superficially
@@ -82,7 +94,10 @@ He **himself** is our **peace**
 	+ we can't: **creation** & **destruction**
 
 ---
-made the two one
+<span class="hl2">14</span>
+has made the two groups **one**
+
+將 兩 下 合 而 為 **一**
 
 >>>
 + Christ **did** this:
@@ -94,14 +109,19 @@ made the two one
 ## Galatians 3:26-29 <small>(NIV)</small>
 
 >>>
-	+ **nullified** law of cmds in dogma
-		+ *(Ro3:31 nullify law bc faith?)*
-		+ Gal3:16-17 promises to seed
-		+ :22-25 Law leads to Christ
-		+ :26-29 no Jew nor Greek, heirs
++ **nullified** law of cmds in dogma
+	+ *(Ro3:31 nullify law bc faith?)*
+	+ Gal3:16-17 promises to seed
+	+ :22-25 Law leads to Christ
+	+ :26-29 no Jew nor Greek, heirs
 
 ---
-reconcile both in one body to God
+<span class="hl2">16</span>
+in **one body** to reconcile **both** of them <br/>
+to **God** through the cross
+
+便 藉 這 十 字 架 使 兩 下 歸 為 **一 體** ，
+與 **神** 和 好 了 ，
 
 >>>
 + **so that** He may:
@@ -180,4 +200,3 @@ by his Spirit.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" class="empty" -->
-
