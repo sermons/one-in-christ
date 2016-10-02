@@ -293,6 +293,8 @@ and rises to become a **holy temple** in the Lord.
 漸漸成為主的**聖殿**。
 </div>
 
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 <span class="hl2">22</span>
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
