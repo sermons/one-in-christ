@@ -132,7 +132,11 @@ to God
 		+ **killing** the enmity
 
 ---
-## Isaiah 57:15 <small>(NIV)</small>
+## Isaiah 57:16 <small>(NIV)</small>
+I live in a **high** and **holy** place,
+but also with the one who is **contrite** and **lowly** in spirit,
+to **revive the spirit** of the lowly
+and to **revive the heart** of the contrite.
 
 >>>
 + both **far** and **near**
@@ -140,9 +144,16 @@ to God
 	+ Is57:15-21 lowly & contrite
 
 ---
+## Isaiah 57:21 <small>(NIV)</small>
+I will **guide** them and restore **comfort**
+to Israel’s mourners, **creating praise** on their lips.
+**Peace, peace**, to those far and near,”
+says the Lord. “And I will **heal** them.”
+
+---
 <!-- .slide: class="Q" data-background="white" -->
 ## Am I at **peace**?
-## With **others**, with **self**, with **God**?
+## With **others**, **self**, and **God**?
 
 >>>
 + How do you obtain peace?
@@ -155,7 +166,12 @@ to God
 + **Life in Christ: Growing Together** <span class="hl2">(v19-22)</span>
 
 ---
-You are no longer **aliens**
+<span class="hl2">19</span>
+You are no longer **foreigners and strangers**, <br/>
+but **fellow citizens** with God’s people
+
+你 們 不 再 作 **外 人 和 客 旅** ， <br/>
+是 與 聖 徒 **同 國**
 
 >>>
 + aliens -> fellow **citizens**
@@ -165,10 +181,16 @@ You are no longer **aliens**
 ## Romans 9:25-26 <small>(NIV)</small>
 
 >>>
-	+ Ro9:25-26 (q. Ho1,2) Lo-Ammi
++ Ro9:25-26 (q. Ho1,2) Lo-Ammi
 
 ---
-**foundation** of apostles & prophets
+<span class="hl2">20</span>
+built on the **foundation** of the apostles and prophets, <br/>
+with Christ Jesus himself as the **chief cornerstone**.
+
+並 且 被 建 造 在 <br/>
+使 徒 和 先 知 的 根 基 上 ，<br/>
+有 基 督 耶 穌 自 己 為 房 角 石 ，
 
 >>>
 + metaphors: house, harmony, plant
@@ -178,22 +200,31 @@ You are no longer **aliens**
 	+ :9-10 people of God
 
 ---
+<span class="hl2">22</span>
+And **in him** you too are being **built together** <br/>
+to become a **dwelling** <br/>
+in which **God lives** by his Spirit.
+
+你 們 也 靠 他 **同 被 建 造** ， <br/>
+成 為 神 藉 著 聖 靈 居 住 的 所 在 。
+
+---
 <!-- .slide: class="Q" data-background="white" -->
 ## Are **we** growing into a **Bethel**?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 <span class="hl2">21</span>
-In him the whole building is joined together <br/>
-and rises to become a holy temple in the Lord.
+**In him** the whole building is **joined together** <br/>
+and rises to become a **holy temple** in the Lord.
 
 各 房 靠 他 聯 絡 得 合 式 ， <br/>
 漸 漸 成 為 主 的 聖 殿 。
 
 <span class="hl2">22</span>
-And in him you too are being built together <br/>
-to become a dwelling in which God lives <br/>
-by his Spirit.
+And **in him** you too are being **built together** <br/>
+to become a **dwelling** <br/>
+in which **God lives** by his Spirit.
 
 你 們 也 靠 他 同 被 建 造 ， <br/>
 成 為 神 藉 著 聖 靈 居 住 的 所 在 。
