@@ -77,7 +77,7 @@ without **hope** and without **God** in the world
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## What is my true **citizenship**?
-## <span class="zh">我真正的國籍是什麼？</span>
+## <span class="zh">我真正的**國籍**是什麼？</span>
 
 >>>
 + Q: **citizenship**? group / boundary / label
@@ -222,7 +222,7 @@ says the Lord. “And I will **heal** them.”
 <!-- .slide: class="Q" data-background="white" -->
 ## Am I at **peace**?
 ## With **others**, **self**, and **God**?
-## <span class="zh">我面對別人, 自己, 上帝時, 心中有平安嗎？</span>
+## <span class="zh">我面對**別人**, **自己**, **上帝**時, 心中有**平安**嗎？</span>
 
 >>>
 + How do you obtain peace?
@@ -259,7 +259,7 @@ with Christ Jesus himself <br/>
 as the **chief cornerstone**.
 
 <div class="zh" data-markdown>
-並且被建造在<br/>
+並且被**建造**在<br/>
 使徒和先知的根基上，<br/>
 有基督耶穌自己為**房角石**，
 </div>
@@ -286,7 +286,7 @@ in which **God lives** by his Spirit.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## Are **we** growing into a **Bethel**?
-## <span class="zh">我們在成長成一個神的家嗎？</span>
+## <span class="zh">我們在成長成一個**神的家**嗎？</span>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
