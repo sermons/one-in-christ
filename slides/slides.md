@@ -106,7 +106,23 @@ has made the two groups **one**
 		+ in his flesh (c.f. curtain)
 
 ---
-## Galatians 3:26-29 <small>(NIV)</small>
+## Galatians 3:27 <small>(NIV/和合本) (p.1/2)</small>
+For all of you who were **baptized** into Christ
+have **clothed** yourselves with Christ.
+
+你 們 **受 洗** 歸 入 基 督 的 都 是 **披 戴** 基 督 了 。
+
+---
+## Galatians 3:28 <small>(NIV/和合本) (p.2/2)</small>
+There is neither **Jew** nor **Greek**,
+there is neither **slave** nor **free** man,
+there is neither **male** nor **female**;
+for you are all **one** in Christ Jesus.
+
+並 不 分 **猶 太** 人 、 **希 利 尼** 人 ，
+**自 主** 的 、 **為 奴** 的 ， 或 **男** 或 **女** ，
+因 為 你 們 在 基 督 耶 穌 裡
+都 成 為 **一 了**
 
 >>>
 + **nullified** law of cmds in dogma
@@ -132,11 +148,16 @@ to God
 		+ **killing** the enmity
 
 ---
-## Isaiah 57:16 <small>(NIV)</small>
-I live in a **high** and **holy** place,
-but also with the one who is **contrite** and **lowly** in spirit,
-to **revive the spirit** of the lowly
+## Isaiah 57:15 <small>(NIV)</small>
+I live in a **high** and **holy** place, <br/>
+but also with the one who is **contrite** and **lowly** in spirit, <br/>
+to **revive the spirit** of the lowly <br/>
 and to **revive the heart** of the contrite.
+
+我 住 在 至 高 至 聖 的 所 在 ， <br/>
+也 與 心 靈 痛 悔 謙 卑 的 人 同 居 ； <br/>
+要 使 謙 卑 人 的 靈 甦 醒 ，  <br/>
+也 使 痛 悔 人 的 心 甦 醒 。
 
 >>>
 + both **far** and **near**
@@ -144,11 +165,20 @@ and to **revive the heart** of the contrite.
 	+ Is57:15-21 lowly & contrite
 
 ---
-## Isaiah 57:21 <small>(NIV)</small>
-I will **guide** them and restore **comfort**
-to Israel’s mourners, **creating praise** on their lips.
-**Peace, peace**, to those far and near,”
+## Isaiah 57:19 <small>(NIV)</small>
+**Peace, peace**, to those far and near,” <br/>
 says the Lord. “And I will **heal** them.”
+
+願 **平 安** 康 泰 歸 與 **遠 處** 的 人 ， <br/>
+也 歸 與 **近 處** 的 人 ； <br/>
+並 且 我 要 **醫 治** 他
+
+---
+## Isaiah 57:21 <small>(NIV)</small>
+"There is **no peace**,” says my God, <br/>
+“for the **wicked**.”
+
+我 的 神 說 ： **惡 人** 必 **不 得 平 安** ！
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -190,7 +220,7 @@ with Christ Jesus himself as the **chief cornerstone**.
 
 並 且 被 建 造 在 <br/>
 使 徒 和 先 知 的 根 基 上 ，<br/>
-有 基 督 耶 穌 自 己 為 房 角 石 ，
+有 基 督 耶 穌 自 己 為 **房 角 石** ，
 
 >>>
 + metaphors: house, harmony, plant
@@ -206,7 +236,7 @@ to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
 
 你 們 也 靠 他 **同 被 建 造** ， <br/>
-成 為 神 藉 著 聖 靈 居 住 的 所 在 。
+成 為 神 藉 著 聖 靈 **居 住** 的 所 在 。
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -219,15 +249,15 @@ in which **God lives** by his Spirit.
 and rises to become a **holy temple** in the Lord.
 
 各 房 靠 他 聯 絡 得 合 式 ， <br/>
-漸 漸 成 為 主 的 聖 殿 。
+漸 漸 成 為 主 的 **聖 殿** 。
 
 <span class="hl2">22</span>
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
 
-你 們 也 靠 他 同 被 建 造 ， <br/>
-成 為 神 藉 著 聖 靈 居 住 的 所 在 。
+你 們 也 靠 他 **同 被 建 造 **， <br/>
+成 為 神 藉 著 聖 靈 **居 住** 的 所 在 。
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" class="empty" -->
