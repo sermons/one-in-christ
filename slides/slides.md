@@ -25,12 +25,14 @@
 + e.g., 3-part **baptism** testimony
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
 <span class="hl2">12</span>
 **Remember** that at that time <br/>
 you were **separate** from Christ
 
-**那 時** ， 你 們 與 基 督 **無 關**
-<!-- .element: style="font-size: larger" -->
+<div class="zh" data-markdown>
+**那時**，你們與基督**無關**
+</div>
 
 >>>
 + **remember** our original state

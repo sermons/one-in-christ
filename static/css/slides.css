@@ -40,6 +40,11 @@ section.empty[data-background-image] {
   vertical-align: inherit;
 }
 
+/* Larger font for Chinese (UTF8) */
+.reveal section .zh {
+  font-size: larger;
+}
+
 /* Highlighted Text */
 .reveal section strong {
   color: yellow;
