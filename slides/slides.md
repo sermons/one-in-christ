@@ -101,13 +101,12 @@ He **himself** is our **peace**
 </div>
 
 >>>
-+ this is what **peace** looks like:
-	+ **person** of Jesus Christ
-	+ not just saying "peace, peace"
-		+ gr8 boys: "peace, be still"
++ Not that Jesus **gives** us peace
+  + He himself **is** our peace
++ not just saying "peace, peace"
+	+ gr8 boys: "peace, be still"
 	+ Jer 8:8-11 healing superficially
-	+ *(Ez13:1-16 Lord not sent, but hope for fulfillment)*
-	+ we can't: **creation** & **destruction**
++ we can't: **creation** & **destruction**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
@@ -286,7 +285,7 @@ in which **God lives** by his Spirit.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## Are **we** growing into a **Bethel**?
-## <span class="zh">我們在成長成一個**神的家**嗎？</span>
+## <span class="zh">我們在成長成一個 <br/> **神的家**嗎？</span>
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
