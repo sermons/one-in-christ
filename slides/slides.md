@@ -44,7 +44,7 @@ you were **separate** from Christ
 **foreigners** to the **covenants** of the promise
 
 <div class="zh" data-markdown>
-在 所 應 許 的 **諸 約** 上 是 **局 外 人** ，
+在所應許的**諸約**上是**局外人**，
 </div>
 
 >>>
@@ -63,7 +63,7 @@ you were **separate** from Christ
 without **hope** and without **God** in the world
 
 <div class="zh" data-markdown>
-並 且 活 在 世 上 沒 有 **指 望** ， 沒 有 **神**
+並且活在世上沒有**指望**，沒有**神**
 </div>
 
 >>>
@@ -93,7 +93,7 @@ without **hope** and without **God** in the world
 He **himself** is our **peace**
 
 <div class="zh" data-markdown>
-他 **是** 我 們 的 **和 睦**
+他**是**我們的**和睦**
 </div>
 
 >>>
@@ -111,7 +111,7 @@ He **himself** is our **peace**
 has made the two groups **one**
 
 <div class="zh" data-markdown>
-將 兩 下 **合 而 為 一**
+將兩下**合而為一**
 </div>
 
 >>>
@@ -126,8 +126,8 @@ For all of you who were **baptized** into Christ <br/>
 have **clothed** yourselves with Christ.
 
 <div class="zh" data-markdown>
-你 們 **受 洗** 歸 入 基 督 的 <br/>
-都 是 **披 戴** 基 督 了
+你們**受洗**歸入基督的<br/>
+都是**披戴**基督了
 </div>
 
 ---
@@ -138,10 +138,10 @@ there is neither **male** nor **female**; <br/>
 for you are all **one** in Christ Jesus.
 
 <div class="zh" data-markdown>
-並 不 分 **猶 太** 人 、 **希 利 尼** 人 ， <br/>
-**自 主** 的 、 **為 奴** 的 ， 或 **男** 或 **女** ， <br/>
-因 為 你 們 在 基 督 耶 穌 裡 <br/>
-都 成 為 **一 了**
+並不分**猶太**人、**希利尼**人，<br/>
+**自主**的、**為奴**的，或**男**或**女**，<br/>
+因為你們在基督耶穌裡<br/>
+都成為**一了**
 </div>
 
 >>>
@@ -157,8 +157,8 @@ in **one body** to reconcile **both** of them <br/>
 to **God** through the cross
 
 <div class="zh" data-markdown>
-便 藉 這 十 字 架 使 兩 下 歸 為 **一 體** ， <br/>
-與 **神** 和 好 了 ，
+便藉這十字架使兩下歸為**一體**，<br/>
+與**神**和好了，
 </div>
 
 >>>
@@ -177,10 +177,10 @@ to **revive the spirit** of the lowly <br/>
 and to **revive the heart** of the contrite.
 
 <div class="zh" data-markdown>
-我 住 在 **至 高 至 聖** 的 所 在 ， <br/>
-也 與 心 靈 **痛 悔 謙 卑** 的 人 同 居 ； <br/>
-要 使 謙 卑 人 的 **靈 甦 醒 **，  <br/>
-也 使 痛 悔 人 的 **心 甦 醒 **
+我住在**至高至聖**的所在，<br/>
+也與心靈**痛悔謙卑**的人同居；<br/>
+要使謙卑人的**靈甦醒**，<br/>
+也使痛悔人的**心甦醒**
 </div>
 
 >>>
@@ -194,9 +194,9 @@ and to **revive the heart** of the contrite.
 says the Lord. “And I will **heal** them.”
 
 <div class="zh" data-markdown>
-願 **平 安** 康 泰 歸 與 **遠 處** 的 人 ， <br/>
-也 歸 與 **近 處** 的 人 ； <br/>
-並 且 我 要 **醫 治** 他
+願**平安**康泰歸與**遠處**的人，<br/>
+也歸與**近處**的人；<br/>
+並且我要**醫治**他
 </div>
 
 ---
@@ -205,7 +205,7 @@ says the Lord. “And I will **heal** them.”
 “for the **wicked**.”
 
 <div class="zh" data-markdown>
-我 的 神 說 ： **惡 人** 必 **不 得 平 安** ！
+我的神說：**惡人**必**不得平安**！
 </div>
 
 ---
@@ -229,18 +229,13 @@ You are no longer **foreigners and strangers**, <br/>
 but **fellow citizens** with God’s people
 
 <div class="zh" data-markdown>
-你 們 不 再 作 **外 人 和 客 旅** ， <br/>
-是 與 聖 徒 **同 國**
+你們不再作**外人和客旅**，<br/>
+是與聖徒**同國**
 </div>
 
 >>>
 + aliens -> fellow **citizens**
 	+ not of the household -> **household**
-
----
-## Romans 9:25-26 <small>(NIV)</small>
-
->>>
 + Ro9:25-26 (q. Ho1,2) Lo-Ammi
 
 ---
@@ -251,9 +246,9 @@ with Christ Jesus himself <br/>
 as the **chief cornerstone**.
 
 <div class="zh" data-markdown>
-並 且 被 建 造 在 <br/>
-使 徒 和 先 知 的 根 基 上 ，<br/>
-有 基 督 耶 穌 自 己 為 **房 角 石** ，
+並且被建造在<br/>
+使徒和先知的根基上，<br/>
+有基督耶穌自己為**房角石**，
 </div>
 
 >>>
@@ -270,8 +265,8 @@ to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
 
 <div class="zh" data-markdown>
-你 們 也 靠 他 **同 被 建 造** ， <br/>
-成 為 神 藉 著 聖 靈 **居 住** 的 所 在 。
+你們也靠他**同被建造**，<br/>
+成為神藉著聖靈**居住**的所在。
 </div>
 
 ---
@@ -285,8 +280,8 @@ in which **God lives** by his Spirit.
 and rises to become a **holy temple** in the Lord.
 
 <div class="zh" data-markdown>
-各 房 靠 他 聯 絡 得 合 式 ， <br/>
-漸 漸 成 為 主 的 **聖 殿** 。
+各房靠他聯絡得合式，<br/>
+漸漸成為主的**聖殿**。
 </div>
 
 <span class="hl2">22</span>
@@ -295,8 +290,8 @@ to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
 
 <div class="zh" data-markdown>
-你 們 也 靠 他 **同 被 建 造 **， <br/>
-成 為 神 藉 著 聖 靈 **居 住** 的 所 在 。
+你們也靠他**同被建造**，<br/>
+成為神藉著聖靈**居住**的所在。
 </div>
 
 ---
