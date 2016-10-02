@@ -284,7 +284,7 @@ in which **God lives** by his Spirit.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-<span class="hl2">21</span>
+## Ephesians 2:21 <small>(NIV) (p.1/2)</small>
 **In him** the whole building is **joined together** <br/>
 and rises to become a **holy temple** in the Lord.
 
@@ -295,7 +295,7 @@ and rises to become a **holy temple** in the Lord.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-<span class="hl2">22</span>
+## Ephesians 2:22 <small>(NIV) (p.1/2)</small>
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
