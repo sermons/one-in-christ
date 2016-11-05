@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Body in Christ
-# <span class="zh">在基督裡合而為一</span>
+## <span class="zh">在基督裡合而為一</span>
 ## <span class="ref">Eph 以弗所书 2:11-22</span>
 
 ---
