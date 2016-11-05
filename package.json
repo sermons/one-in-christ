@@ -18,9 +18,49 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01"
+        "venue": "Zion Chinese Reformed Church",
+        "city": "Abbotsford",
+        "date": "2016-10-02"
+      },
+      {
+        "venue": "Pacific Grace MB Church",
+        "city": "Burnaby",
+        "date": "2016-07-17"
+      },
+      {
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Coquitlam",
+        "date": "2016-07-10"
+      },
+      {
+        "venue": "First Chinese NA Baptist Church",
+        "city": "Vancouver",
+        "date": "2014-08-24"
+      },
+      {
+        "venue": "Bethel Chinese MB Church",
+        "city": "Vancouver",
+        "date": "2014-05-11"
+      },
+      {
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2014-03-16"
+      },
+      {
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Burnaby",
+        "date": "2014-02-09"
+      },
+      {
+        "venue": "North Shore Pacific Grace MB Church",
+        "city": "North Vancouver",
+        "date": "2010-11-07"
+      },
+      {
+        "venue": "Zion Chinese Reformed Church",
+        "city": "Abbotsford",
+        "date": "2010-09-26"
       }
     ]
   },
