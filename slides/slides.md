@@ -210,7 +210,7 @@ says the Lord. “And I will **heal** them.”
 >>>
 + both **far** and **near**
 + **access**/approach in one spirit
-+ this peace **not** for everyone!
++ but peace **not** for everyone!
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
@@ -234,7 +234,7 @@ says the Lord. “And I will **heal** them.”
 ## <span class="zh">我面對**別人**, **自己**, **上帝**時, 心中有**平安**嗎？</span>
 
 >>>
-+ How do you obtain peace?
++ How do you **obtain** peace?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
@@ -276,7 +276,7 @@ as the **chief cornerstone**.
 >>>
 + **house**, harmony, plant
 + *foundation*: **laid** by apostles
-  + (1Co3:9-11 fndtn is Christ)
+  + (1Co3:9-11 foundation is Christ)
 + **capstone** is Christ *(Ro9:30-33)*
 	+ 1Pe2:4-6 Living stone
 	+ :9-10 people of God
