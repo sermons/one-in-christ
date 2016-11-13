@@ -39,7 +39,8 @@ you were **separate** from Christ
 
 >>>
 + **remember** our original state
-	+ JJ "perfect" angel: but sinful nature
++ JJ "perfect" angel:
+  + but **sinful** nature
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
@@ -51,14 +52,13 @@ you were **separate** from Christ
 </div>
 
 >>>
-+ w/o **community**: Gentile, the "other"
-	+ Chinese: *zhong* vs *wai*
-	+ citizenship, belonging, identity
-	+ feeling left out at communion?
-	+ how did it feel to be the **other**? Do you remember anymore?
-+ w/o **covenant**: uncircumcised, stranger
-	+ God's relationship, promise
-	+ c.f. proposal: engaged vs left over
++ w/o **community**: Gentile
+	+ the "other": 中 vs 外
+	+ citizenship, belong, ID
++ how feel to be the **other**?
++ w/o **covenant**: stranger
+	+ relationship, **promise**
++ e.g., **engaged** vs left over
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
@@ -71,7 +71,9 @@ without **hope** and without **God** in the world
 
 >>>
 + w/o **Christ**: hopeless, godless
-	+ non-Chr loved ones: frustrated by diff value system? We were same
+	+ non-Chr loved ones:
+      frustrated by diff **values**?
+    + We were same
 + from **far** to **near**
 
 ---
@@ -81,8 +83,8 @@ without **hope** and without **God** in the world
 
 >>>
 + Q: **citizenship**? group / boundary / label
-+ intra-person, inter-person
-+ many hats => wholeness, unity
++ **intra**-person, **inter**-person
++ many **hats** &rArr; wholeness, **unity**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
@@ -105,8 +107,9 @@ He **himself** is our **peace**
   + He himself **is** our peace
 + not just saying "peace, peace"
 	+ gr8 boys: "peace, be still"
-	+ Jer 8:8-11 healing superficially
-+ we can't: **creation** & **destruction**
+	+ Jer 8:8-11 heal superficial
++ God **does** what we **can't**:
+  + **creation** & **destruction**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
@@ -119,9 +122,9 @@ has made the two groups **one**
 
 >>>
 + Christ **did** this:
-	+ **made** both one
-	+ **broke** mid-wall of barrier, enmity
-		+ in his flesh (c.f. curtain)
++ **made** both one
++ **broke** mid-wall of barrier, enmity
+  + in his flesh (c.f. curtain)
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
@@ -151,10 +154,11 @@ for you are all **one** in Christ Jesus.
 
 >>>
 + **nullified** law of cmds in dogma
+    + emptied it of **power**
 	+ *(Ro3:31 nullify law bc faith?)*
-	+ Gal3:16-17 promises to seed
-	+ :22-25 Law leads to Christ
-	+ :26-29 no Jew nor Greek, heirs
++ (Gal3:16-17 promises to seed)
+	+ (:22-25 Law leads to Christ)
+	+ (:26-29 no Jew nor Greek, heirs)
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
@@ -169,11 +173,11 @@ to **God** through the cross
 
 >>>
 + **so that** He may:
-	+ **create** one new man (c.f. marriage)
-		+ **making** peace
-	+ **reconcile** both in one body
-to God
-		+ **killing** the enmity
++ **create** one new person
+  + (c.f. marriage)
+  + **making** peace
++ **reconcile** both to God
+  + **killing** the enmity
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
@@ -204,8 +208,8 @@ says the Lord. “And I will **heal** them.”
 
 >>>
 + both **far** and **near**
-	+ **access**/approach in one spirit
-	+ Is57:15-21 lowly & contrite
++ **access**/approach in one spirit
++ Is57:15-21 lowly & **contrite**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
@@ -216,6 +220,12 @@ says the Lord. “And I will **heal** them.”
 <div class="zh">
 我的神說：**惡人**必**不得平安**！
 </div>
+
+>>>
++ God makes a **distinction**:
++ peace **only** to the **contrite**
+  + not the **wicked**
++ must **repent**, ask for healing
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -245,9 +255,9 @@ but **fellow citizens** with God’s people
 </div>
 
 >>>
-+ aliens -> fellow **citizens**
-	+ not of the household -> **household**
-+ Ro9:25-26 (q. Ho1,2) Lo-Ammi
++ **aliens** &rarr; fellow **citizens**
++ **not** of the household &rarr; **household**
++ Ro9:25-26 (q. Ho1,2) *Lo-Ammi*
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-agS-BtrQZrs-train_station.jpg" -->
@@ -264,9 +274,10 @@ as the **chief cornerstone**.
 </div>
 
 >>>
-+ metaphors: house, harmony, plant
-	+ *(1Co3:9-11 lay foundation)*
-	+ **capstone** is Christ *(Ro9:30-33)*
++ metaphor: house, harmony, plant
++ *foundation*: **laid** by apostles
+  + (1Co3:9-11 lay foundation)
++ **capstone** is Christ *(Ro9:30-33)*
 	+ 1Pe2:4-6 Living stone
 	+ :9-10 people of God
 
