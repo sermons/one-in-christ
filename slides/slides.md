@@ -153,12 +153,13 @@ for you are all **one** in Christ Jesus.
 </div>
 
 >>>
-+ **nullified** law of cmds in dogma
-    + emptied it of **power**
-	+ *(Ro3:31 nullify law bc faith?)*
++ **nullified** law
+  + of commands in dogma
+  + emptied it of **power**
+  + (Ro3:31 faith null law?)
 + (Gal3:16-17 promises to seed)
-	+ (:22-25 Law leads to Christ)
-	+ (:26-29 no Jew nor Greek, heirs)
+	+ (:22-25 Law &rarr; Christ)
+	+ (:26-29 no Jew/Greek: heirs)
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
@@ -209,7 +210,7 @@ says the Lord. “And I will **heal** them.”
 >>>
 + both **far** and **near**
 + **access**/approach in one spirit
-+ Is57:15-21 lowly & **contrite**
++ this peace **not** for everyone!
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
@@ -224,7 +225,6 @@ says the Lord. “And I will **heal** them.”
 >>>
 + God makes a **distinction**:
 + peace **only** to the **contrite**
-  + not the **wicked**
 + must **repent**, ask for healing
 
 ---
@@ -256,7 +256,7 @@ but **fellow citizens** with God’s people
 
 >>>
 + **aliens** &rarr; fellow **citizens**
-+ **not** of the household &rarr; **household**
++ **not** of household &rarr; **household**
 + Ro9:25-26 (q. Ho1,2) *Lo-Ammi*
 
 ---
@@ -274,9 +274,9 @@ as the **chief cornerstone**.
 </div>
 
 >>>
-+ metaphor: house, harmony, plant
++ **house**, harmony, plant
 + *foundation*: **laid** by apostles
-  + (1Co3:9-11 lay foundation)
+  + (1Co3:9-11 fndtn is Christ)
 + **capstone** is Christ *(Ro9:30-33)*
 	+ 1Pe2:4-6 Living stone
 	+ :9-10 people of God
@@ -293,10 +293,24 @@ in which **God lives** by his Spirit.
 成為神藉著聖靈**居住**的所在。
 </div>
 
+>>>
++ What good is it to have
+  + church **programs**
+  + but no **Christ**?
++ **unity** in Christ &rArr;
+  + where Christ **dwells**
++ &rArr; **Bethel**: house of God
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## Are **we** growing into a **Bethel**?
 ## <span class="zh">我們在成長成一個 <br/> **神的家**嗎？</span>
+
+>>>
++ Former **Enemies**
++ Made at **Peace** in Christ
++ **Growing** Together into a House of God
++ close by reading v21-22:
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
@@ -311,7 +325,7 @@ and rises to become a **holy temple** in the Lord.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Ephesians 2:22 <span class="ref">(NIV) (p.1/2)</span>
+## Ephesians 2:22 <span class="ref">(NIV) (p.2/2)</span>
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
