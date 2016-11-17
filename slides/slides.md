@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Body in Christ
 ## <span class="zh">在基督裡合而為一</span>
 ## <span class="ref">Eph 以弗所书 2:11-22</span>
@@ -18,7 +18,7 @@
 + ch2b: reconciled to **each other**
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ <br/> 在基督裡合而為一
 + *Without* Christ: **Former Enemies** <span class="ref">(v11-13)</span>
 + What Christ *did*: **Made at Peace** <span class="ref">(v14-18)</span>
@@ -28,7 +28,7 @@
 + e.g., 3-part **baptism** testimony
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
 <span class="ref">12</span>
 **Remember** that at that time <br/>
 you were **separate** from Christ
@@ -43,7 +43,7 @@ you were **separate** from Christ
   + but **sinful** nature
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 <span class="ref">12</span>
 **foreigners** to the **covenants** of the promise
 
@@ -61,7 +61,7 @@ you were **separate** from Christ
 + e.g., **engaged** vs left over
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 <span class="ref">12</span>
 without **hope** and without **God** in the world
 
@@ -87,14 +87,14 @@ without **hope** and without **God** in the world
 + many **hats** &rArr; wholeness, **unity**
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ <br/> 在基督裡合而為一
 + Without Christ: Former Enemies (v11-13)
 + **What Christ did: Made at Peace** <span class="ref">(v14-18)</span>
 + Life in Christ: Growing Together (v19-22)
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 <span class="ref">14</span>
 He **himself** is our **peace**
 
@@ -112,7 +112,7 @@ He **himself** is our **peace**
   + **creation** & **destruction**
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 <span class="ref">14</span>
 has made the two groups **one**
 
@@ -127,7 +127,7 @@ has made the two groups **one**
   + in his flesh (c.f. curtain)
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Galatians 3:27 <span class="ref">(NIV) (p.1/2)</span>
 For all of you who were **baptized** into Christ <br/>
 have **clothed** yourselves with Christ.
@@ -138,7 +138,7 @@ have **clothed** yourselves with Christ.
 </div>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 ## Galatians 3:28 <span class="ref">(NIV) (p.2/2)</span>
 There is neither **Jew** nor **Greek**, <br/>
 there is neither **slave** nor **free** man, <br/>
@@ -162,7 +162,7 @@ for you are all **one** in Christ Jesus.
 	+ (:26-29 no Jew/Greek: heirs)
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
 <span class="ref">16</span>
 in **one body** to reconcile **both** of them <br/>
 to **God** through the cross
@@ -181,7 +181,7 @@ to **God** through the cross
   + **killing** the enmity
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Isaiah 57:15 <span class="ref">(NIV) (p.1/3)</span>
 I live in a **high** and **holy** place, <br/>
 but also with the **contrite** and **lowly** in spirit, <br/>
@@ -196,7 +196,7 @@ and to **revive the heart** of the contrite.
 </div>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Isaiah 57:19 <span class="ref">(NIV) (p.2/3)</span>
 **Peace, peace**, to those far and near,” <br/>
 says the Lord. “And I will **heal** them.”
@@ -213,7 +213,7 @@ says the Lord. “And I will **heal** them.”
 + but peace **not** for everyone!
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
 ## Isaiah 57:21 <span class="ref">(NIV) (p.3/3)</span>
 "There is **no peace**,” says my God, <br/>
 “for the **wicked**.”
@@ -237,14 +237,14 @@ says the Lord. “And I will **heal** them.”
 + How do you **obtain** peace?
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## One Body in Christ <br/> 在基督裡合而為一
 + Without Christ: Former Enemies (v11-13)
 + What Christ did: Made at Peace (v14-18)
 + **Life in Christ: Growing Together** <span class="ref">(v19-22)</span>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 <span class="ref">19</span>
 You are no longer **foreigners and strangers**, <br/>
 but **fellow citizens** with God’s people
@@ -260,7 +260,7 @@ but **fellow citizens** with God’s people
 + Ro9:25-26 (q. Ho1,2) *Lo-Ammi*
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-agS-BtrQZrs-train_station.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-agS-BtrQZrs-train_station.jpg" -->
 <span class="ref">20</span>
 built on the **foundation** <br/>
 of the apostles and prophets, <br/>
@@ -282,7 +282,7 @@ as the **chief cornerstone**.
 	+ :9-10 people of God
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
 <span class="ref">22</span>
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
@@ -313,7 +313,7 @@ in which **God lives** by his Spirit.
 + close by reading v21-22:
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## Ephesians 2:21 <span class="ref">(NIV) (p.1/2)</span>
 **In him** the whole building is **joined together** <br/>
 and rises to become a **holy temple** in the Lord.
@@ -324,7 +324,7 @@ and rises to become a **holy temple** in the Lord.
 </div>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## Ephesians 2:22 <span class="ref">(NIV) (p.2/2)</span>
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
@@ -336,4 +336,4 @@ in which **God lives** by his Spirit.
 </div>
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" class="empty" -->
