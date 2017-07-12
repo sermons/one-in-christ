@@ -14,7 +14,7 @@
     "pretty_url": "one-in-christ.seanho.com",
     "cname": "one-in-christ.seanho.com",
     "multiplex": {
-      "url": "https://mp-seanho00.rhcloud.com:8443/",
+      "url": "https://mp.seanho.com:8443/",
       "id": "f3bcac971c74101f"
     },
     "git": {
