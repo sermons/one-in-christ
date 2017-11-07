@@ -2,7 +2,7 @@
 
 [![Travis-CI build status](https://travis-ci.org/sermons/one-in-christ.svg)](https://travis-ci.org/sermons/one-in-christ)
 [![Node dependencies](https://david-dm.org/sermons/one-in-christ.svg)](https://david-dm.org/sermons/one-in-christ)
-[![Node dev status](https://david-dm.org/sermons/one-in-christ/dev-status.svg)](https://david-dm.org/sermons/one-in-christ#info=devDependencies)
+[![Node dev status](https://david-dm.org/sermons/one-in-christ/dev-status.svg)](https://david-dm.org/sermons/one-in-christ?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
