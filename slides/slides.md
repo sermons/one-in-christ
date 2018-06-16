@@ -1,10 +1,10 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> id="title" -->
 # One Body in Christ
 ## <span class="zh">在基督裡合而為一</span>
-## <span class="ref">Eph 以弗所书 2:11-22</span>
+## [Eph 以弗所书 2:11-22](# "ref")
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## Where is my **home**?
 ## <span class="zh">我的**家**在哪裡？</span>
 ## How do I find **peace**?
@@ -18,18 +18,17 @@
 + ch2b: reconciled to **each other**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 ## One Body in Christ <br/> 在基督裡合而為一
-+ *Without* Christ: **Former Enemies** <span class="ref">(v11-13)</span>
-+ What Christ *did*: **Made at Peace** <span class="ref">(v14-18)</span>
-+ *Life* in Christ: **Growing Together** <span class="ref">(v19-22)</span>
++ *Without* Christ: **Former Enemies** [(v11-13)](# "ref")
++ What Christ *did*: **Made at Peace** [(v14-18)](# "ref")
++ *Life* in Christ: **Growing Together** [(v19-22)](# "ref")
 
 >>>
 + e.g., 3-part **baptism** testimony
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-rdwkamJlpiU-mist-mtns.jpg" -->
-<span class="ref">12</span>
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 **Remember** that at that time <br/>
 you were **separate** from Christ
 
@@ -37,19 +36,22 @@ you were **separate** from Christ
 **那時**，你們與基督**無關**
 </div>
 
+[Ephesians 2:12 (NIV)](# "ref")
+
 >>>
 + **remember** our original state
 + JJ "perfect" angel:
   + but **sinful** nature
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
-<span class="ref">12</span>
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 **foreigners** to the **covenants** of the promise
 
 <div class="zh">
 在所應許的**諸約**上是**局外人**，
 </div>
+
+[Ephesians 2:12 (NIV)](# "ref")
 
 >>>
 + w/o **community**: Gentile
@@ -61,13 +63,14 @@ you were **separate** from Christ
 + e.g., **engaged** vs left over
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
-<span class="ref">12</span>
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 without **hope** and without **God** in the world
 
 <div class="zh">
 並且活在世上沒有**指望**，沒有**神**
 </div>
+
+[Ephesians 2:12 (NIV)](# "ref")
 
 >>>
 + w/o **Christ**: hopeless, godless
@@ -77,7 +80,7 @@ without **hope** and without **God** in the world
 + from **far** to **near**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## What is my true **citizenship**?
 ## <span class="zh">我真正的**國籍**是什麼？</span>
 
@@ -87,20 +90,21 @@ without **hope** and without **God** in the world
 + many **hats** &rArr; wholeness, **unity**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 ## One Body in Christ <br/> 在基督裡合而為一
 + Without Christ: Former Enemies (v11-13)
-+ **What Christ did: Made at Peace** <span class="ref">(v14-18)</span>
++ **What Christ did: Made at Peace** [(v14-18)](# "ref")
 + Life in Christ: Growing Together (v19-22)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
-<span class="ref">14</span>
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 He **himself** is our **peace**
 
 <div class="zh">
 他**是**我們的**和睦**
 </div>
+
+[Ephesians 2:14 (NIV)](# "ref")
 
 >>>
 + Not that Jesus **gives** us peace
@@ -112,13 +116,14 @@ He **himself** is our **peace**
   + **creation** & **destruction**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
-<span class="ref">14</span>
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 has made the two groups **one**
 
 <div class="zh">
 將兩下**合而為一**
 </div>
+
+[Ephesians 2:14 (NIV)](# "ref")
 
 >>>
 + Christ **did** this:
@@ -127,8 +132,7 @@ has made the two groups **one**
   + in his flesh (c.f. curtain)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Galatians 3:27 <span class="ref">(NIV) (p.1/2)</span>
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 For all of you who were **baptized** into Christ <br/>
 have **clothed** yourselves with Christ.
 
@@ -137,9 +141,10 @@ have **clothed** yourselves with Christ.
 都是**披戴**基督了
 </div>
 
+[Galatians 3:27 (NIV) (p.1/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-## Galatians 3:28 <span class="ref">(NIV) (p.2/2)</span>
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 There is neither **Jew** nor **Greek**, <br/>
 there is neither **slave** nor **free** man, <br/>
 there is neither **male** nor **female**; <br/>
@@ -152,6 +157,8 @@ for you are all **one** in Christ Jesus.
 都成為**一了**
 </div>
 
+[Galatians 3:28 (NIV) (p.2/2)](# "ref")
+
 >>>
 + **nullified** law
   + of commands in dogma
@@ -162,8 +169,7 @@ for you are all **one** in Christ Jesus.
 	+ (:26-29 no Jew/Greek: heirs)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
-<span class="ref">16</span>
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 in **one body** to reconcile **both** of them <br/>
 to **God** through the cross
 
@@ -171,6 +177,8 @@ to **God** through the cross
 便藉這十字架使兩下歸為**一體**，<br/>
 與**神**和好了，
 </div>
+
+[Ephesians 2:16 (NIV)](# "ref")
 
 >>>
 + **so that** He may:
@@ -181,8 +189,7 @@ to **God** through the cross
   + **killing** the enmity
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## Isaiah 57:15 <span class="ref">(NIV) (p.1/3)</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 I live in a **high** and **holy** place, <br/>
 but also with the **contrite** and **lowly** in spirit, <br/>
 to **revive the spirit** of the lowly <br/>
@@ -195,9 +202,10 @@ and to **revive the heart** of the contrite.
 也使痛悔人的**心甦醒**
 </div>
 
+[Isaiah 57:15 (NIV) (p.1/3)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## Isaiah 57:19 <span class="ref">(NIV) (p.2/3)</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 **Peace, peace**, to those far and near,” <br/>
 says the Lord. “And I will **heal** them.”
 
@@ -207,14 +215,15 @@ says the Lord. “And I will **heal** them.”
 並且我要**醫治**他
 </div>
 
+[Isaiah 57:19 (NIV) (p.2/3)](# "ref")
+
 >>>
 + both **far** and **near**
 + **access**/approach in one spirit
 + but peace **not** for everyone!
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-e6XsI7qqvAA-forest_sunbeam.jpg" -->
-## Isaiah 57:21 <span class="ref">(NIV) (p.3/3)</span>
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 "There is **no peace**,” says my God, <br/>
 “for the **wicked**.”
 
@@ -222,13 +231,15 @@ says the Lord. “And I will **heal** them.”
 我的神說：**惡人**必**不得平安**！
 </div>
 
+[Isaiah 57:21 (NIV) (p.3/3)](# "ref")
+
 >>>
 + God makes a **distinction**:
 + peace **only** to the **contrite**
 + must **repent**, ask for healing
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## Am I at **peace**?
 ## With **others**, **self**, and **God**?
 ## <span class="zh">我面對**別人**, **自己**, **上帝**時, 心中有**平安**嗎？</span>
@@ -237,15 +248,14 @@ says the Lord. “And I will **heal** them.”
 + How do you **obtain** peace?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 ## One Body in Christ <br/> 在基督裡合而為一
 + Without Christ: Former Enemies (v11-13)
 + What Christ did: Made at Peace (v14-18)
-+ **Life in Christ: Growing Together** <span class="ref">(v19-22)</span>
++ **Life in Christ: Growing Together** [(v19-22)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
-<span class="ref">19</span>
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 You are no longer **foreigners and strangers**, <br/>
 but **fellow citizens** with God’s people
 
@@ -254,14 +264,15 @@ but **fellow citizens** with God’s people
 是與聖徒**同國**
 </div>
 
+[Ephesians 2:19 (NIV)](# "ref")
+
 >>>
 + **aliens** &rarr; fellow **citizens**
 + **not** of household &rarr; **household**
 + Ro9:25-26 (q. Ho1,2) *Lo-Ammi*
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-agS-BtrQZrs-train_station.jpg" -->
-<span class="ref">20</span>
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
 built on the **foundation** <br/>
 of the apostles and prophets, <br/>
 with Christ Jesus himself <br/>
@@ -273,6 +284,8 @@ as the **chief cornerstone**.
 有基督耶穌自己為**房角石**，
 </div>
 
+[Ephesians 2:20 (NIV)](# "ref")
+
 >>>
 + **house**, harmony, plant
 + *foundation*: **laid** by apostles
@@ -282,8 +295,7 @@ as the **chief cornerstone**.
 	+ :9-10 people of God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cgPxN5Y27pA-cathedral.jpg" -->
-<span class="ref">22</span>
+<!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
@@ -292,6 +304,8 @@ in which **God lives** by his Spirit.
 你們也靠他**同被建造**，<br/>
 成為神藉著聖靈**居住**的所在。
 </div>
+
+[Ephesians 2:22 (NIV)](# "ref")
 
 >>>
 + What good is it to have
@@ -302,7 +316,7 @@ in which **God lives** by his Spirit.
 + &rArr; **Bethel**: house of God
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## Are **we** growing into a **Bethel**?
 ## <span class="zh">我們在成長成一個 <br/> **神的家**嗎？</span>
 
@@ -313,8 +327,7 @@ in which **God lives** by his Spirit.
 + close by reading v21-22:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Ephesians 2:21 <span class="ref">(NIV) (p.1/2)</span>
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 **In him** the whole building is **joined together** <br/>
 and rises to become a **holy temple** in the Lord.
 
@@ -323,9 +336,10 @@ and rises to become a **holy temple** in the Lord.
 漸漸成為主的**聖殿**。
 </div>
 
+[Ephesians 2:21 (NIV) (p.1/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Ephesians 2:22 <span class="ref">(NIV) (p.2/2)</span>
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 And **in him** you too are being **built together** <br/>
 to become a **dwelling** <br/>
 in which **God lives** by his Spirit.
@@ -335,5 +349,7 @@ in which **God lives** by his Spirit.
 成為神藉著聖靈**居住**的所在。
 </div>
 
+[Ephesians 2:22 (NIV) (p.2/2)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="empty" -->
