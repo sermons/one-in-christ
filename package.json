@@ -5,8 +5,8 @@
   "keywords": [
     "slides",
     "sermon",
-    "talks",
-    "ppt"
+    "ephesians",
+    "zh"
   ],
   "version": "1.6.24",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
@@ -22,6 +22,12 @@
       "email": "travis@seanho.com"
     },
     "history": [
+      {
+        "venue": "Pacific Grace MB Church",
+        "city": "South Vancouver",
+        "date": "2018-06-24",
+        "duration": 0
+      },
       {
         "venue": "Zion Chinese Reformed Church",
         "city": "Abbotsford",
