@@ -1,11 +1,11 @@
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> id="title" -->
 # One Body in Christ
-## [Ephesians 2:11-22](# "ref")
+## Ephesians 2:11-22
 
 ---
 <!-- .slide: data-background="white" -->
-## Where is my **home**?
-## How do I find **peace**?
+# Where is my **home**?
+# How do I find **peace**?
 
 >>>
 + Eph: past **grace** + future **hope** &rArr; present **walk**
@@ -17,9 +17,9 @@
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## One Body in Christ [(Eph2)](# "ref")
-+ *Without* Christ: **Former Enemies** [(v11-13)](# "ref")
-+ What Christ *did*: **Made at Peace** [(v14-18)](# "ref")
-+ *Life* in Christ: **Growing Together** [(v19-22)](# "ref")
++ *Without* Christ: <br> **Former Enemies** [(v11-13)](# "ref")
++ What Christ *did*: <br> **Made at Peace** [(v14-18)](# "ref")
++ *Life* in Christ: <br> **Growing Together** [(v19-22)](# "ref")
 
 >>>
 + e.g., 3-part **baptism** testimony
@@ -66,7 +66,7 @@ without **hope** and without **God** in the world
 
 ---
 <!-- .slide: data-background="white" -->
-## What is my true **citizenship**?
+# What is my true **citizenship**?
 
 >>>
 + Q: **citizenship**? group / boundary / label
@@ -76,9 +76,9 @@ without **hope** and without **God** in the world
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## One Body in Christ [(Eph2)](# "ref")
-+ Without Christ: Former Enemies [(v11-13)](# "ref")
-+ **What Christ did: Made at Peace** [(v14-18)](# "ref")
-+ Life in Christ: Growing Together [(v19-22)](# "ref")
++ Without Christ: <br> Former Enemies [(v11-13)](# "ref")
++ **What Christ did: <br> Made at Peace** [(v14-18)](# "ref")
++ Life in Christ: <br> Growing Together [(v19-22)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
@@ -187,8 +187,8 @@ says the Lord.
 
 ---
 <!-- .slide: data-background="white" -->
-## Am I at **peace**?
-## With **others**, **self**, and **God**?
+# Am I at **peace**?
+# With **others**, **self**, and **God**?
 
 >>>
 + How do you **obtain** peace?
@@ -196,9 +196,9 @@ says the Lord.
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
 ## One Body in Christ [(Eph2)](# "ref")
-+ Without Christ: Former Enemies [(v11-13)](# "ref")
-+ What Christ did: Made at Peace [(v14-18)](# "ref")
-+ **Life in Christ: Growing Together** [(v19-22)](# "ref")
++ Without Christ: <br> Former Enemies [(v11-13)](# "ref")
++ What Christ did: <br> Made at Peace [(v14-18)](# "ref")
++ **Life in Christ: <br> Growing Together** [(v19-22)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
@@ -248,7 +248,7 @@ in which **God lives** by his Spirit.
 
 ---
 <!-- .slide: data-background="white" -->
-## Are **we** growing into a **Bethel**?
+# Are **we** growing into a **Bethel**?
 
 >>>
 + Former **Enemies**
