@@ -17,6 +17,7 @@
 + ch2b: reconciled to **each other**
 
 ---
+[11](# "ref")
 Therefore, remember that formerly <br>
 you who are Gentiles by birth 
 
@@ -27,7 +28,7 @@ who call themselves “the circumcision” <br>
 [Ephesians 2:11 (NIV) (p.1/8)](# "ref")
 
 ---
-12
+[12](# "ref")
 remember that at that time <br>
 you were separate from Christ, 
 
@@ -39,7 +40,7 @@ without hope and without God in the world. 
 [Ephesians 2:12 (NIV) (p.2/8)](# "ref")
 
 ---
-13
+[13](# "ref")
 But now in Christ Jesus <br>
 you who once were far away <br>
 have been brought near by the blood of Christ.
@@ -47,14 +48,14 @@ have been brought near by the blood of Christ.
 [Ephesians 2:13 (NIV) (p.3/8)](# "ref")
 
 ---
-14
+[14](# "ref")
 For he himself is our peace, <br>
 who has made the two groups one 
 
 and has destroyed the barrier, <br>
 the dividing wall of hostility, 
 
-15
+[15](# "ref")
 by setting aside in his flesh <br>
 the law with its commands and regulations.
 
@@ -65,7 +66,7 @@ His purpose was to create in himself <br>
 one new humanity out of the two, <br>
 thus making peace,
 
-16
+[16](# "ref")
 and in one body to reconcile both of them <br>
 to God through the cross, <br>
 by which he put to death their hostility.
@@ -73,38 +74,39 @@ by which he put to death their hostility.
 [Ephesians 2:15-16 (NIV) (p.5/8)](# "ref")
 
 ---
-17
+[17](# "ref")
 He came and preached <br>
 peace to you who were far away <br>
 and peace to those who were near. 
 
-18
+[18](# "ref")
 For through him we both have <br>
 access to the Father by one Spirit.
 
 [Ephesians 2:17-18 (NIV) (p.6/8)](# "ref")
 
 ---
-19
+[19](# "ref")
 Consequently, you are no longer <br>
 foreigners and strangers, 
 
 but fellow citizens with God’s people <br>
 and also members of his household, 
 
-20
+[20](# "ref")
 built on the foundation<br>
 of the apostles and prophets, <br>
-with Christ Jesus himself as the chief cornerstone.
+with Christ Jesus himself <br>
+as the chief cornerstone.
 
 [Ephesians 2:19-20 (NIV) (p.7/8)](# "ref")
 
 ---
-21
+[21](# "ref")
 In him the whole building is joined together <br>
 and rises to become a holy temple in the Lord. 
 
-22
+[22](# "ref")
 And in him you too are being built together <br>
 to become a dwelling <br>
 in which God lives by his Spirit.
