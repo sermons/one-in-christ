@@ -7,6 +7,8 @@
 # Where is my **home**?
 # How do I find **peace**?
 
+[###](#/outline "secret")
+
 >>>
 + Eph: past **grace** + future **hope** &rArr; present **walk**
   + ch1-3: to **know** God
@@ -15,7 +17,102 @@
 + ch2b: reconciled to **each other**
 
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+Therefore, remember that formerly <br>
+you who are Gentiles by birth 
+
+and called “uncircumcised” by those <br>
+who call themselves “the circumcision” <br>
+(which is done in the body by human hands)
+
+[Ephesians 2:11 (NIV) (p.1/8)](# "ref")
+
+---
+12
+remember that at that time <br>
+you were separate from Christ, 
+
+excluded from citizenship in Israel <br>
+and foreigners to the covenants of the promise,
+
+without hope and without God in the world. 
+
+[Ephesians 2:12 (NIV) (p.2/8)](# "ref")
+
+---
+13
+But now in Christ Jesus <br>
+you who once were far away <br>
+have been brought near by the blood of Christ.
+
+[Ephesians 2:13 (NIV) (p.3/8)](# "ref")
+
+---
+14
+For he himself is our peace, <br>
+who has made the two groups one 
+
+and has destroyed the barrier, <br>
+the dividing wall of hostility, 
+
+15
+by setting aside in his flesh <br>
+the law with its commands and regulations.
+
+[Ephesians 2:14-15 (NIV) (p.4/8)](# "ref")
+
+---
+His purpose was to create in himself <br>
+one new humanity out of the two, <br>
+thus making peace,
+
+16
+and in one body to reconcile both of them <br>
+to God through the cross, <br>
+by which he put to death their hostility.
+
+[Ephesians 2:15-16 (NIV) (p.5/8)](# "ref")
+
+---
+17
+He came and preached <br>
+peace to you who were far away <br>
+and peace to those who were near. 
+
+18
+For through him we both have <br>
+access to the Father by one Spirit.
+
+[Ephesians 2:17-18 (NIV) (p.6/8)](# "ref")
+
+---
+19
+Consequently, you are no longer <br>
+foreigners and strangers, 
+
+but fellow citizens with God’s people <br>
+and also members of his household, 
+
+20
+built on the foundation<br>
+of the apostles and prophets, <br>
+with Christ Jesus himself as the chief cornerstone.
+
+[Ephesians 2:19-20 (NIV) (p.7/8)](# "ref")
+
+---
+21
+In him the whole building is joined together <br>
+and rises to become a holy temple in the Lord. 
+
+22
+And in him you too are being built together <br>
+to become a dwelling <br>
+in which God lives by his Spirit.
+
+[Ephesians 2:21-22 (NIV) (p.8/8)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" id="outline" -->
 ## One Body in Christ [(Eph2)](# "ref")
 + *Without* Christ: <br> **Former Enemies** [(v11-13)](# "ref")
 + What Christ *did*: <br> **Made at Peace** [(v14-18)](# "ref")
