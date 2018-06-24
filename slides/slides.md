@@ -161,16 +161,33 @@ without **hope** and without **God** in the world
 	+ non-Chr loved ones:
       frustrated by diff **values**?
     + We were same
-+ from **far** to **near**
+
+---
+Among them **we too** all formerly lived <br>
+in the **lusts** of our flesh, 
+
+indulging the desires <br>
+of the **flesh** and of the **mind**, 
+
+and were by nature **children of wrath**, <br>
+even as the rest.
+
+[Ephesians 2:3 (NASB)](# "ref")
+
+>>>
++ the **rest** of the world thinks this **normal**
 
 ---
 <!-- .slide: data-background="white" -->
-# What is my true **citizenship**?
+# What has Christ **saved** me from?
 
 >>>
-+ Q: **citizenship**? group / boundary / label
-+ **intra**-person, **inter**-person
-+ many **hats** &rArr; wholeness, **unity**
++ what's so amazing about His **grace**?
++ what's so **wretched** about my sin? 
++ how unattainable is God's **holiness**?
++ lust, envy, hatred, selfishness
+  + want to **decide** what is best
++ put us at **odds** w/God + his people
 
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
