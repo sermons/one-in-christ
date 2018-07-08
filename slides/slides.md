@@ -19,7 +19,7 @@
 ---
 [11](# "ref")
 Therefore, remember that formerly <br>
-you who are Gentiles by birth 
+you who are Gentiles by birth
 
 and called “uncircumcised” by those <br>
 who call themselves “the circumcision” <br>
@@ -30,7 +30,7 @@ who call themselves “the circumcision” <br>
 ---
 [12](# "ref")
 remember that at that time <br>
-you were separate from Christ, 
+you were separate from Christ,
 
 excluded from citizenship in Israel <br>
 and foreigners to the covenants of the promise,
@@ -132,7 +132,7 @@ you were **separate** from Christ
 
 >>>
 + **remember** our original state
-+ What would I be like **today** w/o Christ? 
++ What would I be like **today** w/o Christ?
 + JJ "perfect" angel:
   + but **sinful** nature
 
@@ -166,10 +166,10 @@ without **hope** and without **God** in the world
 ---
 <!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
 Among them **we too** all formerly lived <br>
-in the **lusts** of our flesh, 
+in the **lusts** of our flesh,
 
 indulging the desires <br>
-of the **flesh** and of the **mind**, 
+of the **flesh** and of the **mind**,
 
 and were by nature **children of wrath**, <br>
 even as the rest.
@@ -187,7 +187,7 @@ even as the rest.
 
 >>>
 + what's so amazing about His **grace**?
-+ what's so **wretched** about my sin? 
++ what's so **wretched** about my sin?
 + how unattainable is God's **holiness**?
 + put us at **odds** w/God + his people
 
@@ -280,7 +280,7 @@ and to **revive the heart** of the contrite.
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 **Peace, peace**, to those far and near,” <br/>
-says the Lord. 
+says the Lord.
 
 “And I will **heal** them.”
 
@@ -341,12 +341,23 @@ as the **chief cornerstone**.
 [Ephesians 2:20 (NIV)](# "ref")
 
 >>>
-+ **house**, harmony, plant
 + *foundation*: **laid** by apostles
   + (1Co3:9-11 foundation is Christ)
 + **capstone** is Christ *(Ro9:30-33)*
 	+ 1Pe2:4-6 Living stone
 	+ :9-10 people of God
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+In him the whole **building** is **joined together** <br/>
+and **rises** to become a holy temple in the Lord.
+
+[Ephesians 2:20 (NIV)](# "ref")
+
+>>>
++ "building": **house**, construction, planning
++ "joined": **harmony**, distinct but fitting
++ "rises": **horticulture**, growth, organic
 
 ---
 <!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
