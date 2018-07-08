@@ -163,6 +163,7 @@ without **hope** and without **God** in the world
     + We were same
 
 ---
+<!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
 Among them **we too** all formerly lived <br>
 in the **lusts** of our flesh, 
 
