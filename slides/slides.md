@@ -177,6 +177,8 @@ even as the rest.
 [Ephesians 2:3 (NASB)](# "ref")
 
 >>>
++ lust, envy, hatred, selfishness
+  + want to **decide** what is best
 + the **rest** of the world thinks this **normal**
 
 ---
@@ -187,8 +189,6 @@ even as the rest.
 + what's so amazing about His **grace**?
 + what's so **wretched** about my sin? 
 + how unattainable is God's **holiness**?
-+ lust, envy, hatred, selfishness
-  + want to **decide** what is best
 + put us at **odds** w/God + his people
 
 ---
