@@ -132,6 +132,7 @@ you were **separate** from Christ
 
 >>>
 + **remember** our original state
++ What would I be like **today** w/o Christ? 
 + JJ "perfect" angel:
   + but **sinful** nature
 
