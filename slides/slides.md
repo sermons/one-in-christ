@@ -348,7 +348,7 @@ as the **chief cornerstone**.
 	+ :9-10 people of God
 
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 In him the whole **building** is **joined together** <br/>
 and **rises** to become a holy temple in the Lord.
 
