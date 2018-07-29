@@ -211,7 +211,7 @@ He **himself** is our **peace**
 	+ gr8 boys: "peace, be still"
 	+ Jer 8:8-11 heal superficial
 + God **does** what we **can't**:
-  + **creation** & **destruction**
+  + **creation** + **destruction**
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
