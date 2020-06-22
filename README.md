@@ -1,6 +1,6 @@
 # Eph2:11-22, One Body in Christ
 
-[![Travis-CI build status](https://travis-ci.org/sermons/one-in-christ.svg)](https://travis-ci.org/sermons/one-in-christ)
+[![Travis-CI build status](https://api.travis-ci.org/sermons/one-in-christ.svg)](https://travis-ci.org/github/sermons/one-in-christ)
 [![Node dependencies](https://david-dm.org/sermons/one-in-christ.svg)](https://david-dm.org/sermons/one-in-christ)
 [![Node dev status](https://david-dm.org/sermons/one-in-christ/dev-status.svg)](https://david-dm.org/sermons/one-in-christ?type=dev)
 
